@@ -1,0 +1,52 @@
+export const products = [
+    {
+        coverImage: "./assets/img/phone-cover.jpg",
+        name: 'Phone XL',
+        price: 700,
+        description: 'A large phone with one of the best screens',
+        heading1: 'サンプルテキスト1', 
+        heading2: 'サンプルテキスト2',
+        heading3: 'サンプルテキスト3',
+        headingtext1: 'サンプルテキスト　サンプルテキスト サンプルテキストサンプルテキスト',
+        headingtext2:'Donec sed odio dui. Etiam porta sem ma',
+        headingtext3:'vehicula ut id elit. Morbi leo risus, por',
+    
+    },
+    {
+        coverImage: "./assets/img/phone-cover.jpg",
+        name: 'Phone Mini',
+        price: 699,
+        description: 'A great phone with one of the best camera',
+        heading1: 'サンプルテキスト1', 
+        heading2: 'サンプルテキスト2',
+        heading3: 'サンプルテキスト3',
+        headingtext1: 'サンプルテキストサンプルテキスト サンプルテキストサンプルテキスト',
+        headingtext2:'Donec sed odio dui. Etiam porta sem maiam porta sem maiam po  ',
+        headingtext3:'vehicula ut id elit. Morbi leo risus, poriam porta sem mai por',
+    },
+    {
+        coverImage: "./assets/img/phone-cover.jpg",
+        name: 'Phone Standard',
+        price: 299,
+        description: 'standard des',
+        heading1: 'サンプルテキスト1', 
+        heading2: 'サンプルテキスト2',
+        heading3: 'サンプルテキスト3',
+        headingtext1: 'サンプルテキストサンプルテキスト サンプルテキストサンプルテキスト',
+        headingtext2:'Donec sed odio dui. Etiam porta sem maiam porta sem maiam porta ',
+        headingtext3:'vehicula ut id elit. Morbi leo risus, poriam porta sem maiam por',
+
+    },
+    {
+        coverImage: "./assets/img/phone-cover.jpg",
+        name: 'Phone Special',
+        price: 999,
+        description: 'special des',
+        heading1: 'サンプルテキスト1', 
+        heading2: 'サンプルテキスト2',
+        heading3: 'サンプルテキスト3', 
+        headingtext1: 'サンプルテキストサンプルテキスト サンプルテキストサンプルテキスト',
+        headingtext2:'Donec sed odio dui. Etiam porta sem maiam porta sem maiam porta ',
+        headingtext3:'vehicula ut id elit. Morbi leo risus, poriam porta sem maiam por',
+    }
+];
